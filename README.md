@@ -41,6 +41,8 @@ This project is built using Python and focuses on understanding the patterns and
 
 1. **Clone the repository**
    ```bash
+   git clone https://github.com/Rohith723/EDA_Project.git
+   cd EDA_Project
 
 2. **Install dependencies**
 | pip install -r requirements.txt |
@@ -53,5 +55,3 @@ This project is built using Python and focuses on understanding the patterns and
 The script generates plots (histograms.png, pairplot.png, correlation.png) in the project directory.
 
 
- git clone https://github.com/Rohith723/EDA_Project.git
-   cd EDA_Project
